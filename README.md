@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gowthamsankar12
-- 👀 I’m interested in Engineering and Latest Technologies
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on python,java
-- 📫 How to reach me ...
+- 👀 I’m a Azure Data Engineer currently working in Infosys Limited
+- 💞️ I’m looking to collaborate on Azure Data Engineering
 
 <!---
 gowthamsankar12/gowthamsankar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
